@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Scanner/Scanner.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scanner/ViewController.cs">
+    <Files>
+      <File FileName="Scanner/ViewController.cs" Line="71" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Scanner" expanded="True">
+            <Node name="Scanner" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Scanner PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53789B97-4C1F-43CE-A70D-CF72F5B2ECF2" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

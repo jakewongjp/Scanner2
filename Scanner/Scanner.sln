@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scanner", "Scanner\Scanner.csproj", "{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}.Release|iPhone.Build.0 = Release|iPhone
+		{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5C1B65F8-6E73-4F21-BB06-59F2A588CA29}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
