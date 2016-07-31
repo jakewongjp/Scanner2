@@ -27,19 +27,22 @@ namespace Scanner
 		[Outlet]
 		UIKit.UIButton xxx { get; set; }
 
+		[Action ("btnClick_Scan:")]
+		partial void btnClick_Scan (Foundation.NSObject sender);
+
 		[Action ("ButtonCLick3:")]
 		partial void ButtonCLick3 (Foundation.NSObject sender);
 		
 		void ReleaseDesignerOutlets ()
 		{
-			if (btnScan != null) {
-				btnScan.Dispose ();
-				btnScan = null;
-			}
-
 			if (abc != null) {
 				abc.Dispose ();
 				abc = null;
+			}
+
+			if (btnScan != null) {
+				btnScan.Dispose ();
+				btnScan = null;
 			}
 
 			if (efg != null) {
@@ -47,14 +50,14 @@ namespace Scanner
 				efg = null;
 			}
 
-			if (xxx != null) {
-				xxx.Dispose ();
-				xxx = null;
-			}
-
 			if (outputlabel != null) {
 				outputlabel.Dispose ();
 				outputlabel = null;
+			}
+
+			if (xxx != null) {
+				xxx.Dispose ();
+				xxx = null;
 			}
 		}
 	}

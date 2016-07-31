@@ -98,7 +98,27 @@ namespace Scanner
 
 
 
+		partial void btnClick_Scan(Foundation.NSObject sender)
+		{
 
+			var scanner = new ZXing.Mobile.MobileBarcodeScanner();
+			var result = scanner.Scan();
+
+
+
+
+
+
+			var ss = "dffdd;dffdfd;dfd";
+
+
+
+
+
+
+
+
+		}
 
 
 
